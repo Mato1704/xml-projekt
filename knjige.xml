@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knjige>
+  <knjiga>
+    <naslov>Harry Potter i Kamen Mudraca</naslov>
+    <autor>J.K. Rowling</autor>
+    <opis>Na početku priče, 1. studenog 1981., čarobnjak i vještica, Albus Dumbledore i Minerva McGonagall, se susreću u Kalininom prilazu u Little Whingingu, predgrađu Surreya, i razgovaraju o nedavnim događajima u čarobnjačkom svijetu. Lord Voldemort, najmoćniji crni mag u povijesti, napokon je pobijeđen. Nažalost, čini se da je sa sobom uzeo i dvije posljednje žrtve: Jamesa i Lily Potter. Njihov je sin Harry nekako uspio preživjeti bez ozljeda, s izuzetkom ožiljka u obliku munje na čelu. Harry će biti legenda među čarobnjacima, "dječak koji je preživio", i Dumbledore zato vjeruje da će za njega biti najbolje da odrasta dalje od te slave i pažnje.</opis>
+    <slika>slike/potter.jpg</slika>
+    <cijena>12.99</cijena>
+  </knjiga>
+  <knjiga>
+    <naslov>The Way of Kings</naslov>
+    <autor>Brandon Sanderson</autor>
+    <opis>Epski fantastični roman američkog pisca Brandona Sandersona i prva je knjiga iz serijala Arhiva Olujne svjetlosti. Roman je objavljen 31. kolovoza 2010. u izdanju Tor Booksa. Put kraljeva sastoji se od jednog preludija, jednog prologa, 75 poglavlja, epiloga i devet interludija.</opis>
+    <slika>slike/kings.jpg</slika>
+    <cijena>29.99</cijena>
+  </knjiga>
+  <knjiga>
+    <naslov>Empire of Silence</naslov>
+    <autor>Cristopher Ruocchio</autor>
+    <opis>Hadrian Marlowe, čovjek štovan kao heroj, a prezren kao ubojica, kronološki opisuje svoju priču u galaksijskim debitantskim djelima serije Sun Eater, spajajući najbolje od svemirske opere i epske fantastike.</opis>
+    <slika>slike/sun.jpg</slika>
+    <cijena>18.99</cijena>
+  </knjiga>
+</knjige>
